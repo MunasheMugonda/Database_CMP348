@@ -1,0 +1,60 @@
+﻿body
+{
+}
+
+th
+{
+    text-align: left;
+}
+
+.AccordianContentCssClass
+{
+    background: lightgray;
+    margin: 1em;
+}
+
+.AccordianHeaderCssClass
+{
+    background: gray;
+    padding: .3em;
+}
+
+.AjaxFileUploadCssClass
+{
+    background: wheat;
+}
+
+.BalloonPopupExtenderPanelCssClass
+{
+    background: blue;
+}
+
+.CalendarExtenderCssClass
+{
+    background: wheat;
+    color: red;
+}
+
+.ModalPopupExtenderBackgroundCssClass
+{
+    background-color: gray;
+    opacity: 0.5;
+}
+.ModalPopupExtenderPanelCssClass
+{
+    background-color: wheat;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 300px;
+}
+
+.PasswordStrengthTextCssClass
+{
+    background: green;
+    color: yellow;
+}
+

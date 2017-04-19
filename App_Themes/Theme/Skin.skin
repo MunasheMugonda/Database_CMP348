@@ -1,0 +1,3 @@
+﻿<asp:Button runat="server" SkinID="skiListViewButton"
+    Width="60"
+/>
